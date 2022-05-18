@@ -1,0 +1,97 @@
+{
+    "doors" : [
+        {
+            "type" : "liftOff",
+            "isViewPort": false,
+            "panelThick": [25, 30],
+            "handle" : {"Code":"LAHC15215", "Qty":1},
+            "connector" : {"Code":"LAHC15220", "Qty":4},
+            "viewPort" :null,
+            "nutInsert" :{"Code":"LCCH30209", "Qty":6},
+            "bolt": {"Code":"LCCH30050", "Qty":2}
+        },
+        {
+            "type" : "liftOff",
+            "isViewPort": false,
+            "panelThick": [50,45,48],
+            "handle" : {"Code":"LAHC15215", "Qty":1},
+            "connector" : {"Code":"LAHC15220", "Qty":4},
+            "viewPort" :null,
+            "nutInsert" :{"Code":"LCCH30209", "Qty":6},
+            "bolt": {"Code":"LCCH30051", "Qty":2}
+        },
+        
+        {
+            "type" : "liftOff",
+            "isViewPort": true,
+            "panelThick": [25, 30],
+            "handle" : {"Code":"LAHC15215", "Qty":1},
+            "connector" : {"Code":"LAHC15220", "Qty":4},
+            "viewPort" :{"Code":"LAHC15221", "Qty":1},
+            "nutInsert" :{"Code":"LCCH30209", "Qty":6},
+            "bolt": {"Code":"LCCH30050", "Qty":2}
+        },
+        
+        {
+            "type" : "liftOff",
+            "isViewPort": true,
+            "panelThick": [50,45,48],
+            "handle" : {"Code":"LAHC15215", "Qty":1},
+            "connector" : {"Code":"LAHC15220", "Qty":4},
+            "viewPort" :{"Code":"LAHC15222", "Qty":1},
+            "nutInsert" :{"Code":"LCCH30209", "Qty":6},
+            "bolt": {"Code":"LCCH30051", "Qty":2}
+        },
+        {
+            "type" : "hinge",
+            "isViewPort": false,
+            "panelThick": [25, 30],
+            "handle" : {"Code":"LAHC15217", "Qty":2},
+            "connector" : {"Code":"LAHC15219", "Qty":2},
+            "viewPort" :null,
+            "nutInsert" :{"Code":"LCCH30209", "Qty":12},
+            "bolt": {"Code":"LCCH30050", "Qty":12},
+            "drillingScrew": {"Code":"LCCH30517", "Qty":4}
+
+        },
+        
+        {
+            "type" : "hinge",
+            "isViewPort": false,
+            "panelThick": [50,45,48],
+            "handle" : {"Code":"LAHC15218", "Qty":2},
+            "connector" : {"Code":"LAHC15219", "Qty":2},
+            "viewPort" :null,
+            "nutInsert" :{"Code":"LCCH30209", "Qty":12},
+            "bolt": {"Code":"LCCH30051", "Qty":12},
+            "drillingScrew": {"Code":"LCCH30517", "Qty":4}
+        },
+        
+        {
+            "type" : "hinge",
+            "isViewPort": true,
+            "panelThick": [25, 30],
+            "handle" : {"Code":"LAHC15217", "Qty":2},
+            "connector" : {"Code":"LAHC15219", "Qty":2},
+            "viewPort" :{"Code":"LAHC15221", "Qty":1},
+            "nutInsert" :{"Code":"LCCH30209", "Qty":12},
+            "bolt": {"Code":"LCCH30050", "Qty":12},
+            "drillingScrew": {"Code":"LCCH30517", "Qty":4}
+            
+        },
+        
+        {
+            "type" : "hinge",
+            "isViewPort": true,
+            "panelThick": [50,45,48],
+            "handle" : {"Code":"LAHC15218", "Qty":2},
+            "connector" : {"Code":"LAHC15219", "Qty":2},
+            "viewPort" :{"Code":"LAHC15222", "Qty":1},
+            "nutInsert" :{"Code":"LCCH30209", "Qty":12},
+            "bolt": {"Code":"LCCH30051", "Qty":12},
+            "drillingScrew": {"Code":"LCCH30517", "Qty":4}
+        }
+    ]
+
+    
+}

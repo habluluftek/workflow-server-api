@@ -1,0 +1,73 @@
+{
+    "constants": {
+        "itemType" : "RM",
+        "SrNo": 1,
+        "BOMType": "",
+        "Plant": "Main Plant"
+    },
+    "casing" : {
+        "GISheetDensity": 7.81,
+        "sheetWastage": 1.15,
+        "cubeSides": 4,
+        "cubeCorners": 8,
+        "crossSectionCorners": 4,
+        "omegaProfileAmt": 0.9,
+        "pufChemicalDensity": 40,
+        "polyolRatio": 0.6,
+        "isolRatio" : 0.4,
+        "pufChemicalWastage": 1.10,
+        "gasketQty" : 8,
+        "fastnersQty1" : 33.33,
+        "fastnersQty2" : 100
+
+    },
+    "fan" : {
+        "fanSeatingCorners" : 4
+    },
+    "coil" : {
+        "fin_f1": 0.45,
+        "fin_f2": 10.76,
+        "topBottomEndPlates" : 2,
+        "sideEndPlates" : 2,
+        "GISheetDensity": 7.81,
+        "SSSheetDensity": 7.81,
+        "sheetWastage": 1.15,
+        "hQty1": 2,
+        "hQty2": 350,
+        "hQty3": 2,
+        "uBendF1": 2,
+        "uBendF2": 2,
+        "uBendF3": 2,
+        "stubF1": 2,
+        "stubF2": 2,
+        "stubF1DX": 0.0088,
+        "stubF2DX": 0.000091,
+        "stubF1CHW": 0.0118,
+        "brazingRodTJointDXF1" : 1.25,
+        "brazingRodElbowDXF1" : 0.015,
+        "brazingRodEndCapDXF1" : 0.01,
+        "areaFactor" : 10.76,
+        "halfInFactoryFin" : 0.45,
+        "halfInFactoryTube" : 0.4,
+        "threeEigthInFactoryFin" : 0.4,
+        "threeEigthInFactoryTube" : 0.35,
+        "halfIntoMM" : 12.7,
+        "threeEigthIntoMM" : 9.525,
+        "distributorInletHeader" : 350,
+        "eliminatorPitch" : 25,
+        "eliminatorBladeLength": 3
+    },
+    "damper" : {
+        "bladeProfileClearance" : 4,
+        "endProfileClearance"   : 70,
+        "endProfileQty"         : 2,
+        "verticalProfileQty"    : 2,
+        "hBushQty"              : 2,
+        "stopperStickQty"       : 4,
+        "screwQty"              : 20
+    },
+    "conversion" : {
+        "MMtoM" : 0.001,
+        "MMtoCM" : 0.01
+    }
+}

@@ -1,0 +1,141 @@
+{
+   "inlet" : [
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17237",
+      "Description": "5/8 Inches Copper Hard Pipe"
+   },
+   "Elbows": {
+      "CODE": null,
+      "Description": null,
+      "QTY": 0
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17238",
+      "Description": "7/8 Inches Copper Hard Pipe"
+   },
+   "Elbows": {
+      "CODE": "LAHR17201",
+      "Description": "7/8 Inches Copper Elbow",
+      "QTY": 1
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17239",
+      "Description": "1 1/8 Inches Copper Hard Pipe"
+   },
+   "Elbows": {
+      "CODE": "LAHR17203",
+      "Description": "1 1/8 Inches Copper Elbow",
+      "QTY": 1
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17240",
+      "Description": "COPPER HARD PIPE - 1 3/8"
+   },
+   "Elbows": {
+      "CODE": "LAHR17204",
+      "Description": "1 3/8 Inches Copper Elbow",
+      "QTY": 1
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17241",
+      "Description": "1 5/8 Inches Copper Hard Pipe"
+   },
+   "Elbows": {
+      "CODE": null,
+      "Description": null,
+      "QTY": 0
+   }
+}
+],
+
+"outlet" : [
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17237",
+      "Description": "5/8 Inches Copper Hard Pipe"
+   },
+   "T_JOINT": {
+      "CODE": null,
+      "Description": null,
+      "QTY": 0
+   },
+   "ENDCAPS": {
+      "CODE": null,
+      "Description": null,
+      "QTY": 0
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17238",
+      "Description": "7/8 Inches Copper Hard Pipe"
+   },
+   "T_JOINT": {
+      "CODE": "LAHR17207",
+      "Description": "7/8 Copper T Joint",
+      "QTY": 1
+   },
+   "ENDCAPS": {
+      "CODE": "LCCC16919",
+      "Description": "COPPER END CAP -  7/8",
+      "QTY": 3
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17239",
+      "Description": "1 1/8 Inches Copper Hard Pipe"
+   },
+   "T_JOINT": {
+      "CODE": "LAHR17208",
+      "Description": "1 1/8 Copper T Joint",
+      "QTY": 1
+   },
+   "ENDCAPS": {
+      "CODE": "LCCC16921",
+      "Description": "COPPER END CAP  1-1/8",
+      "QTY": 3
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17240",
+      "Description": "COPPER HARD PIPE - 1 3/8"
+   },
+   "T_JOINT": {
+      "CODE": "LAHR17209",
+      "Description": "1 3/8 Copper T Joint",
+      "QTY": 1
+   },
+   "ENDCAPS": {
+      "CODE": "LAHR17227",
+      "Description": "1 3/8 Inches Copper End Cap",
+      "QTY": 3
+   }
+},
+ {
+   "HARDPIPES": {
+      "CODE": "LAHR17241",
+      "Description": "1 5/8 Inches Copper Hard Pipe"
+   },
+   "T_JOINT": {
+      "CODE": "LAHR17210",
+      "Description": "1 5/8 Copper T Joint",
+      "QTY": 1
+   },
+   "ENDCAPS": {
+      "CODE": "LAHR17228",
+      "Description": "1 5/8 Inches Copper End Cap",
+      "QTY": 3
+   }
+}
+]}

@@ -1,0 +1,2 @@
+SELECT a.id,a.soNum,b.poDate,a.rate,a.qty,(a.rate * a.qty) as amount, b.salesEr FROM luftekin_luftapp.saleOrderItems a INNER JOIN luftekin_luftapp.saleOrder b ON b.soNum = a.soNum;
+SELECT a.id,a.soNum,b.poDate,a.rate,a.qty,(a.rate * a.qty) as amount, b.salesEr FROM luftekin_luftapp.saleOrderItems a  INNER JOIN luftekin_luftapp.saleOrder b ON b.soNum = a.soNum where b.salesEr = 6;

@@ -1,0 +1,3274 @@
+{
+    "fanBom" : [
+ {
+   "id": 1,
+   "fanDia": "7-7 S",
+   "fanOmega": {
+      "spec": 0.887,
+      "code": "LAHC15503",
+      "qty": 0.887
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.654
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.638
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 0.974
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 0.974
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.024
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 2,
+   "fanDia": "8-8 S",
+   "fanOmega": {
+      "spec": 0.92,
+      "code": "LAHC15503",
+      "qty": 0.92
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.72
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.704
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.086
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.086
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.136
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 3,
+   "fanDia": "9-9 S",
+   "fanOmega": {
+      "spec": 0.955,
+      "code": "LAHC15503",
+      "qty": 0.955
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.79
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.726
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.12
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.12
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.17
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 4,
+   "fanDia": "10-10 S",
+   "fanOmega": {
+      "spec": 1,
+      "code": "LAHC15503",
+      "qty": 1
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.88
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.792
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.24
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.24
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.29
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 5,
+   "fanDia": "12-12S",
+   "fanOmega": {
+      "spec": 1.066,
+      "code": "LAHC15503",
+      "qty": 1.066
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.012
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.92
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.472
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.472
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.522
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 6,
+   "fanDia": "15-15 S",
+   "fanOmega": {
+      "spec": 1.254,
+      "code": "LAHC15503",
+      "qty": 1.254
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.388
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.072
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.75
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.75
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.8
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 7,
+   "fanDia": "18-18 S",
+   "fanOmega": {
+      "spec": 1.369,
+      "code": "LAHC15503",
+      "qty": 1.369
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.618
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.244
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 2.07
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 2.07
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 2.12
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 8,
+   "fanDia": "7-7 S2",
+   "fanOmega": {
+      "spec": 0.887,
+      "code": "LAHC15503",
+      "qty": 0.887
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.654
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.524
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.492
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.492
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.542
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 9,
+   "fanDia": "8-8 S2",
+   "fanOmega": {
+      "spec": 0.92,
+      "code": "LAHC15503",
+      "qty": 0.92
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.72
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.706
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.66
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.66
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.71
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 10,
+   "fanDia": "9-9 S2",
+   "fanOmega": {
+      "spec": 0.955,
+      "code": "LAHC15503",
+      "qty": 0.955
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.79
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.81
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.716
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.716
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.766
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 11,
+   "fanDia": "10-10 S2",
+   "fanOmega": {
+      "spec": 1,
+      "code": "LAHC15503",
+      "qty": 1
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.88
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.982
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.902
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.902
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.952
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 12,
+   "fanDia": "12-12 S2",
+   "fanOmega": {
+      "spec": 1.066,
+      "code": "LAHC15503",
+      "qty": 1.066
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.012
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.358
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 2.262
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 2.262
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 2.312
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 13,
+   "fanDia": "15-15 S2",
+   "fanOmega": {
+      "spec": 1.254,
+      "code": "LAHC15503",
+      "qty": 1.254
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.388
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.782
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 2.692
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 2.692
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 2.742
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 14,
+   "fanDia": "18-18 S2",
+   "fanOmega": {
+      "spec": 1.369,
+      "code": "LAHC15503",
+      "qty": 1.369
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.618
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 3.274
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 3.184
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 3.184
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 3.234
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 15,
+   "fanDia": "180",
+   "fanOmega": {
+      "spec": 0.228,
+      "code": "LAHC15503",
+      "qty": 0.228
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.676
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.576
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 0.912
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 0.912
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 0.962
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 16,
+   "fanDia": "200",
+   "fanOmega": {
+      "spec": 0.256,
+      "code": "LAHC15503",
+      "qty": 0.256
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.716
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.642
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.024
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.024
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.074
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 17,
+   "fanDia": "225",
+   "fanOmega": {
+      "spec": 0.288,
+      "code": "LAHC15503",
+      "qty": 0.288
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.794
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.706
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.152
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.152
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.202
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 18,
+   "fanDia": "250",
+   "fanOmega": {
+      "spec": 0.322,
+      "code": "LAHC15503",
+      "qty": 0.322
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.866
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.774
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.288
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.288
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.338
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 19,
+   "fanDia": "280",
+   "fanOmega": {
+      "spec": 0.36,
+      "code": "LAHC15503",
+      "qty": 0.36
+   },
+   "antiVibrant": {
+      "spec": "AV25 ",
+      "code": "LAHC15503",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.962
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.86
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.44
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.44
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.49
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 20,
+   "fanDia": "315",
+   "fanOmega": {
+      "spec": 0.404,
+      "code": "LAHC15501",
+      "qty": 0.404
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.066
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 0.948
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.616
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.616
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.666
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 21,
+   "fanDia": "355",
+   "fanOmega": {
+      "spec": 0.452,
+      "code": "LAHC15501",
+      "qty": 0.452
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 4
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 8
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 8
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 8
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.406
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.064
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 1.808
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 1.808
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 1.858
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 22,
+   "fanDia": "400",
+   "fanOmega": {
+      "spec": 0.506,
+      "code": "LAHC15501",
+      "qty": 0.506
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.55
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.172
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 2.024
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 2.024
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 2.074
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 24
+   }
+},
+ {
+   "id": 23,
+   "fanDia": "450",
+   "fanOmega": {
+      "spec": 0.568,
+      "code": "LAHC15501",
+      "qty": 0.568
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 2.702
+   },
+   "fcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 0
+   },
+   "fcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M8 x 35",
+      "code": "LCCH30418",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "40 x 40",
+      "code": "LAHC23712",
+      "qty": 1.296
+   },
+   "mcBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M8",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 2.272
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 2.272
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 2.322
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+},
+ {
+   "id": 24,
+   "fanDia": "500",
+   "fanOmega": {
+      "spec": 0.638,
+      "code": "LAHC15501",
+      "qty": 0.638
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "60 x 60",
+      "code": "LAHC23711",
+      "qty": 2.85
+   },
+   "fcBolt": {
+      "spec": "M10 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M10",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "fcWasher": {
+      "spec": "M10",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M10 x 35",
+      "code": "LCCH30419",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "60 x 60",
+      "code": "LAHC23711",
+      "qty": 1.476
+   },
+   "mcBolt": {
+      "spec": "M10 x 40",
+      "code": "LCCH30007",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M10",
+      "code": "LCCH30207",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M10",
+      "code": "LCCH30403",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30411",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 2.552
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 2.552
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 2.602
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+},
+ {
+   "id": 25,
+   "fanDia": "560",
+   "fanOmega": {
+      "spec": 0.714,
+      "code": "LAHC15501",
+      "qty": 0.714
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "60 x 60",
+      "code": "LAHC23711",
+      "qty": 3.174
+   },
+   "fcBolt": {
+      "spec": "M10 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M10",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "fcWasher": {
+      "spec": "M10",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "M10 x 35",
+      "code": "LCCH30419",
+      "qty": 4
+   },
+   "motorCritical": {
+      "spec": "60 x 60",
+      "code": "LAHC23711",
+      "qty": 1.648
+   },
+   "mcBolt": {
+      "spec": "M10 x 40",
+      "code": "LCCH30007",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M10",
+      "code": "LCCH30207",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M10",
+      "code": "LCCH30403",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30411",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 2.856
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 2.856
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 2.906
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+},
+ {
+   "id": 26,
+   "fanDia": "630",
+   "fanOmega": {
+      "spec": 0.8,
+      "code": "LAHC15501",
+      "qty": 0.8
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "fcBolt": {
+      "spec": "M10 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M10",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "fcWasher": {
+      "spec": "M10",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "",
+      "code": "",
+      "qty": null
+   },
+   "motorCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "mcBolt": {
+      "spec": "M10 x 40",
+      "code": "LCCH30007",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M10",
+      "code": "LCCH30207",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M10",
+      "code": "LCCH30403",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30411",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 3.2
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 3.2
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 3.25
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+},
+ {
+   "id": 27,
+   "fanDia": "710",
+   "fanOmega": {
+      "spec": 0.898,
+      "code": "LAHC15501",
+      "qty": 0.898
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "fcBolt": {
+      "spec": "M10 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M10",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "fcWasher": {
+      "spec": "M10",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "",
+      "code": "",
+      "qty": null
+   },
+   "motorCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "mcBolt": {
+      "spec": "M10 x 40",
+      "code": "LCCH30007",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M10",
+      "code": "LCCH30207",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M10",
+      "code": "LCCH30403",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30411",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 3.592
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 3.592
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 3.642
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+},
+ {
+   "id": 28,
+   "fanDia": "800",
+   "fanOmega": {
+      "spec": 1.006,
+      "code": "LAHC15501",
+      "qty": 1.006
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "fcBolt": {
+      "spec": "M10 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M10",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "fcWasher": {
+      "spec": "M10",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "",
+      "code": "",
+      "qty": null
+   },
+   "motorCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "mcBolt": {
+      "spec": "M10 x 40",
+      "code": "LCCH30007",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M10",
+      "code": "LCCH30207",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M10",
+      "code": "LCCH30403",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30411",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 4.024
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 4.024
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 4.074
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+},
+ {
+   "id": 29,
+   "fanDia": "900",
+   "fanOmega": {
+      "spec": 1.13,
+      "code": "LAHC15501",
+      "qty": 1.13
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "fcBolt": {
+      "spec": "M10 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M10",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "fcWasher": {
+      "spec": "M10",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "",
+      "code": "",
+      "qty": null
+   },
+   "motorCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "mcBolt": {
+      "spec": "M10 x 40",
+      "code": "LCCH30007",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M10",
+      "code": "LCCH30207",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M10",
+      "code": "LCCH30403",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30411",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 4.52
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 4.52
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 4.57
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+},
+ {
+   "id": 30,
+   "fanDia": "1000",
+   "fanOmega": {
+      "spec": 1.266,
+      "code": "LAHC15501",
+      "qty": 1.266
+   },
+   "antiVibrant": {
+      "spec": "AV40",
+      "code": "LAHC15501",
+      "qty": 6
+   },
+   "fmNutInsert": {
+      "spec": "M8",
+      "code": "LCCH30210",
+      "qty": 12
+   },
+   "fmBolt": {
+      "spec": "M8 x 25",
+      "code": "LCCH30002",
+      "qty": 12
+   },
+   "fmNut": {
+      "spec": "M8",
+      "code": "LCCH30206",
+      "qty": 12
+   },
+   "fmWasher": {
+      "spec": "M8",
+      "code": "LCCH30402",
+      "qty": 12
+   },
+   "fanCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "fcBolt": {
+      "spec": "M10 x 25",
+      "code": "LCCH30002",
+      "qty": 4
+   },
+   "fcNut": {
+      "spec": "M10",
+      "code": "LCCH30206",
+      "qty": 4
+   },
+   "fcWasher": {
+      "spec": "M10",
+      "code": "LCCH30402",
+      "qty": 8
+   },
+   "fcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30410",
+      "qty": 4
+   },
+   "sqWasher": {
+      "spec": "",
+      "code": "",
+      "qty": null
+   },
+   "motorCritical": {
+      "spec": "GI base",
+      "code": "",
+      "qty": 0
+   },
+   "mcBolt": {
+      "spec": "M10 x 40",
+      "code": "LCCH30007",
+      "qty": 4
+   },
+   "mcNut": {
+      "spec": "M10",
+      "code": "LCCH30207",
+      "qty": 4
+   },
+   "mcWasher": {
+      "spec": "M10",
+      "code": "LCCH30403",
+      "qty": 8
+   },
+   "mcSpringWasher": {
+      "spec": "M10",
+      "code": "LCCH30411",
+      "qty": 4
+   },
+   "flexTProfile": {
+      "spec": "",
+      "code": "LAHC23718",
+      "qty": 5.064
+   },
+   "flexLProfile": {
+      "spec": "",
+      "code": "LAHC23719",
+      "qty": 5.064
+   },
+   "flexCanvas": {
+      "spec": "",
+      "code": "LAHC15557",
+      "qty": 5.114
+   },
+   "flexPopRivet": {
+      "spec": "",
+      "code": "LCCH30653",
+      "qty": 36
+   }
+}
+]
+}

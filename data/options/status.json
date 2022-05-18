@@ -1,0 +1,82 @@
+[
+ {
+   "id": 1,
+   "name": "ENQUIRY QUOTED"
+ },
+ {
+   "id": 2,
+   "name": "AWAITING FOR ORDER"
+ },
+ {
+   "id": 3,
+   "name": "ORDER CREATED"
+ },
+ {
+   "id": 4,
+   "name": "ORDER BOOKED"
+ },
+ {
+   "id": 5,
+   "name": "ORDER APPROVED"
+ },
+ {
+   "id": 6,
+   "name": "SENT FOR PRODUCTION PLAN"
+ },
+ {
+   "id": 7,
+   "name": "PRODUCTION CLEARANCE APPROVAL SENT"
+ },
+ {
+   "id": 8,
+   "name": "PRODUCTION CLEARANCE APPROVED"
+ },
+ {
+   "id": 9,
+   "name": "PARTIALLY APPROVED"
+ },
+ {
+   "id": 10,
+   "name": "APPROVAL ON HOLD"
+ },
+ {
+   "id": 11,
+   "name": "BOM GENERATED"
+ },
+ {
+   "id": 12,
+   "name": "UNDER PRODUCTION"
+ },
+ {
+   "id": 13,
+   "name": "MATERIAL READY FOR DISPATCH"
+ },
+ {
+   "id": 14,
+   "name": "DISPATCH CLEARANCE RAISED"
+ },
+ {
+   "id": 15,
+   "name": "DISPATCH CLEARANCE APPROVED"
+ },
+ {
+   "id": 16,
+   "name": "PARTIALLY DISPATCHED"
+ },
+ {
+   "id": 17,
+   "name": "DISPATCHED"
+ },
+ {
+   "id": 18,
+   "name": "DISPATCH ON HOLD"
+ },
+ {
+   "id": 19,
+   "name": "JOB ON HOLD"
+ },
+ {
+   "id": 20,
+   "name": "AMENDED"
+ }
+]

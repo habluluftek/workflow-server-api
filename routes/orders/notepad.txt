@@ -1,0 +1,19 @@
+{
+    jobRef= ${data.jobRef},
+    poNum= '${data.poNum}',
+    poDate= '${data.poDate}',
+    customerId= ${data.customerId},
+    projectName= '${data.projectName}',
+    siteAddress= '${data.siteAddress}',
+    country= '${data.country}',
+    state= '${data.state}',
+    city= '${data.city}',
+    currency= ${data.currency},
+    freightScope= ${data.freightScope},
+    freightCharge= ${data.freightCharge},
+    paymentTerms= '${data.paymentTerms}',
+    salesEr= ${data.salesEr},
+    soNum= ${data.soNum},
+    updated= '${data.updated}',
+    updatedby= ${data.updatedby}
+}

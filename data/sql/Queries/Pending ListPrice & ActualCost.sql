@@ -1,0 +1,5 @@
+-- SELECT a.soNum,b.poDate as poDate, b.projectName as projectName, c.name as customerName, a.productRef, a.productId, a.rate, a.qty, a.listPrice  FROM luftekin_luftapp.saleOrderItems  a  INNER JOIN  luftekin_luftapp.saleOrder b on a.soNum = b.soNum INNER JOIN luftekin_luftapp.customers c on b.customerId = c.id where a.soNum = 24 ;
+
+-- SELECT id, soNum,productRef,rate,qty,listPrice FROM luftekin_luftapp.saleOrderItems where soNum = 24;
+
+-- SELECT a.soNum, b.poDate as poDate, b.projectName as projectName, c.name as customerName, a.productRef, a.productId, a.rate, a.qty, a.actualProductionCost FROM luftekin_luftapp.saleOrderItems a  INNER JOIN  luftekin_luftapp.saleOrder b on a.soNum = b.soNum INNER JOIN luftekin_luftapp.customers c on b.customerId = c.id where actualProductionCost IS NULL OR actualProductionCost = ''OR actualProductionCost <= 50;

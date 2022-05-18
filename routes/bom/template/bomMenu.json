@@ -1,0 +1,34 @@
+[
+	{
+		"id" : 1,
+		"name" : "insulation"
+	},
+	{
+		"id" : 2,
+		"name" : "panelThick"
+	},
+	{
+		"id" : 3,
+		"name" : "baseType"
+	},
+	{
+		"id" : 4,
+		"name" : "baseHeight"
+	},
+	{
+		"id" : 5,
+		"name" : "baseThick"
+	},
+	{
+		"id" : 6,
+		"name" : "rowDeep"
+	},
+	{
+		"id" : 7,
+		"name" : "tubeDia"
+	},
+	{
+		"id" : 8,
+		"name" : "tubeMaterial"
+	}
+]

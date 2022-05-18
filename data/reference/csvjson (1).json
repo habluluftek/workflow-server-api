@@ -1,0 +1,4142 @@
+[
+  {
+    "id": 2175,
+    "Code": "LAHC11259",
+    "Name": "BSB 225 CM",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2176,
+    "Code": "LCCR06504",
+    "Name": "C Channel � 100mm",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Steel"
+  },
+  {
+    "id": 2177,
+    "Code": "LCCR06505",
+    "Name": "C Channel � 150mm",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Steel"
+  },
+  {
+    "id": 2178,
+    "Code": "LAHC49103",
+    "Name": "GI Louver",
+    "Description": "",
+    "Unit": "Square Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Steel"
+  },
+  {
+    "id": 2179,
+    "Code": "LAHC49104",
+    "Name": "Aluminum Louver",
+    "Description": "",
+    "Unit": "Square Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Steel"
+  },
+  {
+    "id": 2180,
+    "Code": "LAHS7000",
+    "Name": "Work In Progress Materials (Sheet, Al & Insulation)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "LUFTEK",
+    "Sub_Group": "",
+    "Item_Group": "AHU"
+  },
+  {
+    "id": 2181,
+    "Code": "LCCC16910",
+    "Name": "Fin Press Evaporative Oil",
+    "Description": "YBI Belpress Pre-99i",
+    "Unit": "Ltrs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2182,
+    "Code": "LCCC16911",
+    "Name": "Hydraulic Oil - 32 Grade",
+    "Description": "YBI BelHydro -  YHB32",
+    "Unit": "Ltrs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2183,
+    "Code": "LCCC16912",
+    "Name": "Liquimux 723N",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2184,
+    "Code": "LCCC16913",
+    "Name": "Silmux G Powder",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2185,
+    "Code": "LCCC16914",
+    "Name": "Silmux T Paste",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2186,
+    "Code": "LAHC49103",
+    "Name": "Jet Nozzle",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "DAMPER"
+  },
+  {
+    "id": 2187,
+    "Code": "LAHC11002",
+    "Name": "KAT 8/8 S KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2188,
+    "Code": "LAHR06251",
+    "Name": "12.7mm OD with 0.36 mm Wall Thickness Plain Tube Seamless LWC Copper",
+    "Description": "C12200 / O50 Light Annealed Complyng to ASTM Standard B68M",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "RAW MATERIAL"
+  },
+  {
+    "id": 2189,
+    "Code": "LAHR06252",
+    "Name": "12.7mm OD with 0.5 mm Wall Thickness Plain Tube Seamless LWC Copper",
+    "Description": "C12200 / O50 Light Annealed Complyng to ASTM Standard B68M",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "RAW MATERIAL"
+  },
+  {
+    "id": 2190,
+    "Code": "LAHR06253",
+    "Name": "12.7mm OD with 0.7 mm Wall Thickness Plain Tube Seamless Copper",
+    "Description": "C12200 / O50 Light Annealed Complyng to ASTM Standard B68M",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "RAW MATERIAL"
+  },
+  {
+    "id": 2191,
+    "Code": "LAHR06254",
+    "Name": "9.52mm OD with 0.27mm Wall thickness Internally grooved Seamless tube LWC Copper: Groove Height-0.16mm",
+    "Description": "C12200 / O50 Light Annealed Complyng to ASTM Standard B68M",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "RAW MATERIAL"
+  },
+  {
+    "id": 2192,
+    "Code": "LAHR06255",
+    "Name": "9.52mm OD with 0.7mm Wall thickness Plain Seamless tube LWC Copper",
+    "Description": "C12200 / O50 Light Annealed Complyng to ASTM Standard B68M",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "RAW MATERIAL"
+  },
+  {
+    "id": 2193,
+    "Code": "LAHC14513",
+    "Name": "BAG FILTER EU5 GRADE - 592 MM (W) x 287 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2194,
+    "Code": "LAHC14514",
+    "Name": "BAG FILTER EU5 GRADE - 592 MM (W) x 592 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2195,
+    "Code": "LAHE15107",
+    "Name": "Potentiometer Controller",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ELECTRICAL"
+  },
+  {
+    "id": 2196,
+    "Code": "LAHC14515",
+    "Name": "PRE FILTER GRADE EU4 - 750 MM (W) x 950 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2197,
+    "Code": "LAHC14516",
+    "Name": "HDPE MESH FILTER - 750 MM (W) x 1000 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "MESH FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2198,
+    "Code": "LAHR05251",
+    "Name": "5/8 Inlet x 6 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2199,
+    "Code": "LAHR05252",
+    "Name": "5/8 Inlet x 8 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2200,
+    "Code": "LAHR05253",
+    "Name": "5/8 Inlet x 9 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2201,
+    "Code": "LAHR05254",
+    "Name": "7/8 Inlet x 10 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2202,
+    "Code": "LAHR05255",
+    "Name": "7/8 Inlet x 12 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2203,
+    "Code": "LAHR05256",
+    "Name": "7/8 Inlet x 14 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2204,
+    "Code": "LAHR05257",
+    "Name": "7/8 Inlet x 16 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2205,
+    "Code": "LAHR05258",
+    "Name": "7/8 Inlet x 18 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2206,
+    "Code": "LAHR05259",
+    "Name": "7/8 Inlet x 20 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2207,
+    "Code": "LAHR17201",
+    "Name": "7/8 Inches Copper Elbow",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2208,
+    "Code": "LAHR17202",
+    "Name": "3/8 Inches Copper Elbow",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2209,
+    "Code": "LAHR17203",
+    "Name": "1 1/8 Inches Copper Elbow",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2210,
+    "Code": "LAHR17204",
+    "Name": "1 3/8 Inches Copper Elbow",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2211,
+    "Code": "LAHR17205",
+    "Name": "5/8 Copper T Joint",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2212,
+    "Code": "LAHR17206",
+    "Name": "3/4 Copper T Joint",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2213,
+    "Code": "LAHR17207",
+    "Name": "7/8 Copper T Joint",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2214,
+    "Code": "LAHR17208",
+    "Name": "1 1/8 Copper T Joint",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2215,
+    "Code": "LAHR17209",
+    "Name": "1 3/8 Copper T Joint",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2216,
+    "Code": "LAHR17210",
+    "Name": "1 5/8 Copper T Joint",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2217,
+    "Code": "LAHR17211",
+    "Name": "5/8 x 1/2 Inch Copper Reducer",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2218,
+    "Code": "LAHR17212",
+    "Name": "7/8 x 5/8 Inch Copper Reducer",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2219,
+    "Code": "LAHR17213",
+    "Name": "1 1/8 x 7/8 Inch Copper Reducer",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2220,
+    "Code": "LAHR17214",
+    "Name": "1 3/8 x 7/8 Inch Copper Reducer",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2221,
+    "Code": "LAHR17215",
+    "Name": "1/2 Inch Copper S Bend 0.5mm Thick",
+    "Description": "27.5mm Pitch x 55mm Height",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2222,
+    "Code": "LAHR17216",
+    "Name": "1/2 Inch Copper U Bend 0.5mm Thick",
+    "Description": "31.75 mm Pitch x 25mm Height",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2223,
+    "Code": "LAHR17217",
+    "Name": "1/2 Inch Copper C Bend 0.5mm Thick",
+    "Description": "55 mm Pitch x 25mm Height",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2224,
+    "Code": "LAHC11260",
+    "Name": "GR40C-ZID.DC.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2225,
+    "Code": "LAHC11261",
+    "Name": "GR56C-ZID.GG.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2226,
+    "Code": "LAHC23904",
+    "Name": "ALUMINIUM FIN STOCK - 0.12mm Thick - 274mm Width for 3/8 (PLAIN)",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PARTS"
+  },
+  {
+    "id": 2227,
+    "Code": "LAHC23905",
+    "Name": "HYDROPHILIC COATED ALUMINIUM FIN STOCK - 0.12mm Thick - 274mm Width for 3/8",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PARTS"
+  },
+  {
+    "id": 2228,
+    "Code": "LAHR06501",
+    "Name": "1 inch Seamless MS Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MS Pipe"
+  },
+  {
+    "id": 2229,
+    "Code": "LAHR06502",
+    "Name": "1 1/2 inch Seamless MS Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MS Pipe"
+  },
+  {
+    "id": 2230,
+    "Code": "LAHR06503",
+    "Name": "2 inch Seamless MS Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MS Pipe"
+  },
+  {
+    "id": 2231,
+    "Code": "LAHR06504",
+    "Name": "2 1/2 inch Seamless MS Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MS Pipe"
+  },
+  {
+    "id": 2232,
+    "Code": "LAHR06505",
+    "Name": "3 inch Seamless MS Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MS Pipe"
+  },
+  {
+    "id": 2233,
+    "Code": "LAHR06506",
+    "Name": "3 1/2 inch Seamless MS Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MS Pipe"
+  },
+  {
+    "id": 2234,
+    "Code": "LAHR06507",
+    "Name": "4 inch Seamless MS Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MS Pipe"
+  },
+  {
+    "id": 2235,
+    "Code": "LAHC11262",
+    "Name": "KD2 9/7  750W - 4P",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2236,
+    "Code": "LCCC16915",
+    "Name": "Acetylene Gas Cylinder",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2237,
+    "Code": "LCCR07008",
+    "Name": "SS SHEET 304 GRADE 0.6mm THK",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "SS SHEETS"
+  },
+  {
+    "id": 2238,
+    "Code": "LAHC14517",
+    "Name": "PRE FILTER EU4 GRADE - 500 MM (W) x 400 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2239,
+    "Code": "LAHC23720",
+    "Name": "BLADE PROFILE - ALUMINUM DAMPER (6149)",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PROFILES"
+  },
+  {
+    "id": 2240,
+    "Code": "LAHC23721",
+    "Name": "TOP & BOTTOM PROFILE - ALUMINUM DAMPER (6148)",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PROFILES"
+  },
+  {
+    "id": 2241,
+    "Code": "LAHC23722",
+    "Name": "VERTICAL PROFILE - ALUMINUM DAMPER (6150)",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PROFILES"
+  },
+  {
+    "id": 2242,
+    "Code": "LAHC15558",
+    "Name": "Cushy Foot Antivibrant",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ANTI-VIBRATIONS"
+  },
+  {
+    "id": 2243,
+    "Code": "LCCC16931",
+    "Name": "Nitrogen Cylinder",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2244,
+    "Code": "LAHR05260",
+    "Name": "7/8 Inlet x 7 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2245,
+    "Code": "LAHR05261",
+    "Name": "7/8 Inlet x 9 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2246,
+    "Code": "LAHR05262",
+    "Name": "Purge Nipple",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2247,
+    "Code": "LAHE15108",
+    "Name": "Teflon Tape",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ELECTRICAL"
+  },
+  {
+    "id": 2248,
+    "Code": "LAHC11263",
+    "Name": "KDD 9/7  245W - 4P",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2249,
+    "Code": "LAHC11264",
+    "Name": "RDA 160 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2250,
+    "Code": "LAHC11265",
+    "Name": "RDA 180 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2251,
+    "Code": "LAHC11266",
+    "Name": "RDA 225 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2252,
+    "Code": "LAHC11267",
+    "Name": "RDA 250 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2253,
+    "Code": "LAHC11268",
+    "Name": "RDA 280 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2254,
+    "Code": "LAHC11269",
+    "Name": "RDA 315 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2255,
+    "Code": "LAHC11270",
+    "Name": "RDA 355 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2256,
+    "Code": "LAHC11271",
+    "Name": "RDA 400 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2257,
+    "Code": "LAHC11272",
+    "Name": "RDA 450 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2258,
+    "Code": "LAHC11273",
+    "Name": "RDA 500 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2259,
+    "Code": "LAHC11274",
+    "Name": "RDA 560 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2260,
+    "Code": "LAHC11275",
+    "Name": "RDA 630 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2261,
+    "Code": "LAHC11276",
+    "Name": "RDA 710 R NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2262,
+    "Code": "LAHC11277",
+    "Name": "RDA 800 K NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2263,
+    "Code": "LAHC11278",
+    "Name": "RDA 900 K NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2264,
+    "Code": "LAHC11279",
+    "Name": "RDA 1000 K NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2265,
+    "Code": "LAHC11280",
+    "Name": "RDA 1120 K NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2266,
+    "Code": "LAHC11281",
+    "Name": "RDA 1250 K NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2267,
+    "Code": "LAHC11282",
+    "Name": "RDA 1400 K NICOTRA MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "NICOTRA",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2268,
+    "Code": "LAHR17218",
+    "Name": "1 inch Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2269,
+    "Code": "LAHR17219",
+    "Name": "1 1/2 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2270,
+    "Code": "LAHR17220",
+    "Name": "2 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2271,
+    "Code": "LAHR17221",
+    "Name": "2 1/8 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2272,
+    "Code": "LAHR17222",
+    "Name": "2 1/2 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2273,
+    "Code": "LAHR17223",
+    "Name": "3 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2274,
+    "Code": "LAHR17224",
+    "Name": "1/2 Inch Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2275,
+    "Code": "LAHR17225",
+    "Name": "1 Inch Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2276,
+    "Code": "LAHR17226",
+    "Name": "1 1/2 Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2277,
+    "Code": "LAHR17227",
+    "Name": "1 3/8 Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2278,
+    "Code": "LAHR17228",
+    "Name": "1 5/8 Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2279,
+    "Code": "LAHR17229",
+    "Name": "2 Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2280,
+    "Code": "LAHR17230",
+    "Name": "2 1/8 Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2281,
+    "Code": "LAHR17231",
+    "Name": "2 1/2 Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2282,
+    "Code": "LAHR17232",
+    "Name": "3  Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2283,
+    "Code": "LAHR17233",
+    "Name": "76.5mm Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2284,
+    "Code": "LAHC24761",
+    "Name": "13 mm THK  Open Cell Nitrile Foam Insulation With Aluminum Foil and Self Adhesive",
+    "Description": "",
+    "Unit": "Square Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2285,
+    "Code": "LAHR17234",
+    "Name": "3/8 Inch Copper S Bend 0.45mm Thick",
+    "Description": "22mm Pitch x 55mm Height",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2286,
+    "Code": "LAHR17235",
+    "Name": "3/8 Inch Copper U Bend 0.45mm Thick",
+    "Description": "25.4 mm Pitch x 25mm Height",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2287,
+    "Code": "LAHR17236",
+    "Name": "3/8 Inch Copper C Bend 0.45mm Thick",
+    "Description": "44 mm Pitch x 25mm Height",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2288,
+    "Code": "LAHC23906",
+    "Name": "Aluminum Die Cast Unit Connector",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PARTS"
+  },
+  {
+    "id": 2289,
+    "Code": "LAHC23723",
+    "Name": "ALUMINUM SECTION JOINT (HALF OMEGA) PROFILE - 50-48 MM SQUARE TBK",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PROFILES"
+  },
+  {
+    "id": 2290,
+    "Code": "LAHC15241",
+    "Name": "50mm TBK - Section Joint 3 Way Corner",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2291,
+    "Code": "LAHR17237",
+    "Name": "5/8 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2292,
+    "Code": "LAHR17238",
+    "Name": "7/8 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2293,
+    "Code": "LAHR17239",
+    "Name": "1 1/8 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2294,
+    "Code": "LAHR17240",
+    "Name": "1 3/8 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2295,
+    "Code": "LAHR17241",
+    "Name": "1 5/8 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2296,
+    "Code": "LAHR05263",
+    "Name": "1 1/8 Inlet x 24 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2297,
+    "Code": "LAHR05264",
+    "Name": "1 3/8 Inlet x 24 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2298,
+    "Code": "LAHR05265",
+    "Name": "1 3/8 Inlet x 42 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2299,
+    "Code": "LAHR05266",
+    "Name": "1 5/8 Inlet x 42 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2300,
+    "Code": "LAHC11283",
+    "Name": "GR45C-ZIK.DC.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2301,
+    "Code": "LAHC11284",
+    "Name": "GR56C-ZID.GL.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2302,
+    "Code": "LAHR05267",
+    "Name": "1 1/8 Inlet x 26 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2303,
+    "Code": "LAHR05268",
+    "Name": "1 1/8 Inlet x 28 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2304,
+    "Code": "LAHR05269",
+    "Name": "1 1/8 Inlet x 30 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2305,
+    "Code": "LAHR05270",
+    "Name": "1 1/8 Inlet x 32 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2306,
+    "Code": "LAHR05271",
+    "Name": "1 1/8 Inlet x 34 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2307,
+    "Code": "LAHR05272",
+    "Name": "1 1/8 Inlet x 36 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2308,
+    "Code": "LAHR05273",
+    "Name": "1 1/8 Inlet x 38 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2309,
+    "Code": "LAHR05274",
+    "Name": "1 1/8 Inlet x 40 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2310,
+    "Code": "LAHC24762",
+    "Name": "EPDM SPONGE RUBBER GASKET  15MM x 4MM THK WITH ONE SIDE SELF ADHESIVE",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2311,
+    "Code": "LAHC24763",
+    "Name": "EPDM SPONGE RUBBER GASKET  15MM x 5MM THK WITH ONE SIDE SELF ADHESIVE",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2312,
+    "Code": "LAHC11285",
+    "Name": "BNC 315 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2313,
+    "Code": "LAHC11286",
+    "Name": "BNC 355 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2314,
+    "Code": "LAHC11287",
+    "Name": "BNC 400 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2315,
+    "Code": "LAHC11288",
+    "Name": "BNC 450 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2316,
+    "Code": "LAHC11289",
+    "Name": "BNC 500 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2317,
+    "Code": "LAHC11290",
+    "Name": "BNC 560 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2318,
+    "Code": "LAHC11291",
+    "Name": "BNC 630 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2319,
+    "Code": "LAHC11292",
+    "Name": "BNC 710 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2320,
+    "Code": "LAHC11293",
+    "Name": "BNC 800 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2321,
+    "Code": "LAHC11294",
+    "Name": "BNC 900 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2322,
+    "Code": "LAHC11295",
+    "Name": "BNC 1000 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2323,
+    "Code": "LAHC11296",
+    "Name": "BNC 1120 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2324,
+    "Code": "LAHC11297",
+    "Name": "BNC 1250 CM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "KRUGER",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2325,
+    "Code": "LAHC11298",
+    "Name": "ER40C-2DN G71R",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2326,
+    "Code": "LAHC15242",
+    "Name": "DAMPER LEFT PLATE - N61",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2327,
+    "Code": "LAHC15243",
+    "Name": "DAMPER RIGHT PLATE - N60",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2328,
+    "Code": "LAHC15244",
+    "Name": "DAMPER ROUND BUSH - N63",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2329,
+    "Code": "LAHC15245",
+    "Name": "DAMPER - H - BUSH - N62",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2330,
+    "Code": "LAHC15246",
+    "Name": "DAMPER GEAR - N59",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2331,
+    "Code": "LAHC15247",
+    "Name": "DAMPER STOPPER STICK - N66",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2332,
+    "Code": "LAHC15248",
+    "Name": "DAMPER HANDLE - N64",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2333,
+    "Code": "LAHC15249",
+    "Name": "DAMPER HANDLE PLATE - N65",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2334,
+    "Code": "LAHC24764",
+    "Name": "DAMPER BLADE GASKET - R1",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2335,
+    "Code": "LAHC23907",
+    "Name": "DAMPER SQUARE ROD",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PARTS"
+  },
+  {
+    "id": 2336,
+    "Code": "LCCH30518",
+    "Name": "Wing Nut - (N 82)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FASTENERS"
+  },
+  {
+    "id": 2337,
+    "Code": "LCCH30519",
+    "Name": "GI M6 x 80 Truss Head Bolt",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FASTENERS"
+  },
+  {
+    "id": 2338,
+    "Code": "LAHR06256",
+    "Name": "1/4 inch OD with 0.7mm Wall thickness Plain Seamless tube LWC Copper",
+    "Description": "C12200 / O50 Light Annealed Complyng to ASTM Standard B68M",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "RAW MATERIAL"
+  },
+  {
+    "id": 2339,
+    "Code": "LAHC14518",
+    "Name": "COMMISSIONING FILTER 595 MM (W) x 595 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2340,
+    "Code": "LAHC14519",
+    "Name": "COMMISSIONING FILTER 595 MM (W) x 494 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2341,
+    "Code": "LAHC14520",
+    "Name": "COMMISSIONING FILTER 595 MM (W) x 290 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2342,
+    "Code": "LAHC14521",
+    "Name": "COMMISSIONING FILTER 494 MM (W) x 595 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2343,
+    "Code": "LAHC14522",
+    "Name": "COMMISSIONING FILTER 290 MM (W) x 595 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2344,
+    "Code": "LAHC14523",
+    "Name": "COMMISSIONING FILTER 494 MM (W) x 494 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2345,
+    "Code": "LAHC14524",
+    "Name": "COMMISSIONING FILTER 290 MM (W) x 494 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2346,
+    "Code": "LAHC14525",
+    "Name": "COMMISSIONING FILTER 290 MM (W) x 290 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMMISSIONING FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2347,
+    "Code": "LAHC11299",
+    "Name": "ER31C-2DN D71R",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2348,
+    "Code": "LAHR05275",
+    "Name": "1 3/8 Inlet x 44 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2349,
+    "Code": "LAHR05276",
+    "Name": "1 3/8 Inlet x 46 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2350,
+    "Code": "LAHR05277",
+    "Name": "1 3/8 Inlet x 48 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2351,
+    "Code": "LAHE15109",
+    "Name": "Magnahelic Differential Pressure Gauge",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Switch"
+  },
+  {
+    "id": 2352,
+    "Code": "LAHE15110",
+    "Name": "Inclined Tube Manometer",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Switch"
+  },
+  {
+    "id": 2353,
+    "Code": "LAHC24765",
+    "Name": "25mm THK OPEN CELL NITRILE FOAM INSULATION WITH ONE SIDE SELF ADHESIVE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2354,
+    "Code": "LAHR05278",
+    "Name": "3 1/8 Inches Copper End Cap",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2355,
+    "Code": "LAHC11300",
+    "Name": "ER63C-4DN G71R",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2356,
+    "Code": "LAHC11301",
+    "Name": "GR35C.ZID.DC.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2357,
+    "Code": "LAHC11302",
+    "Name": "GR50C.ZID.GG.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2358,
+    "Code": "LAHC14526",
+    "Name": "ACTIVATED CARBON FILTER - 290 MM (W) x 595 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2359,
+    "Code": "LAHC14527",
+    "Name": "ACTIVATED CARBON FILTER - 595 MM (W) x 290 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2360,
+    "Code": "LCCE27021",
+    "Name": "CG 5.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "CG",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2361,
+    "Code": "LCCE27022",
+    "Name": "CG 5.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "CG",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2362,
+    "Code": "LCCE27023",
+    "Name": "CG 3.7 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "CG",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2363,
+    "Code": "LAHR05279",
+    "Name": "1 1/8 Inlet x 22 Way Brass Refrigerant Distributor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2364,
+    "Code": "LAHC14528",
+    "Name": "PRE FILTER (FLANGE TYPE) EU3 GRADE - 610 MM (W) x 610 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2365,
+    "Code": "LAHC14529",
+    "Name": "PRE FILTER (FLANGE TYPE) EU3 GRADE - 610 MM (W) x 305 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2366,
+    "Code": "LAHC14530",
+    "Name": "PRE FILTER (FLANGE TYPE) EU3 GRADE - 305 MM (W) x 305 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2367,
+    "Code": "LAHC14531",
+    "Name": "CARBON FILTER (FLANGE TYPE)  -  610 MM (W) x 610 MM (H) x 100 MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2368,
+    "Code": "LCCM47010",
+    "Name": "General Spares",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Hardware"
+  },
+  {
+    "id": 2369,
+    "Code": "LCCM47011",
+    "Name": "Miscellaneous Consumable Item",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "Hardware"
+  },
+  {
+    "id": 2370,
+    "Code": "LAHC23908",
+    "Name": "HYDROPHILIC COATED ALUMINIUM FIN STOCK - 0.12mm Thick - 230mm Width",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PARTS"
+  },
+  {
+    "id": 2371,
+    "Code": "LAHC11303",
+    "Name": "GR31C-ZID.DC.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "Ziehl Abegg",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2372,
+    "Code": "LAHC15250",
+    "Name": "DOOR HINGE - N 90 x 70 PS",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2373,
+    "Code": "LAHC11304",
+    "Name": "140 x 160 FCU Fan with Housing",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2374,
+    "Code": "LAHC11305",
+    "Name": "160 x 200 FCU Fan with Housing",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2375,
+    "Code": "LAHC11306",
+    "Name": "180 x 190 FCU Fan with Housing",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2376,
+    "Code": "LCCE27024",
+    "Name": "1/10 HP SINGLE PHASE 6 POLE MOTOR - WITH CAPACITIOR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "CG",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2377,
+    "Code": "LAHR05280",
+    "Name": "3 WAY TENTACLES FOR FCU LEFT SIDE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2378,
+    "Code": "LAHR05281",
+    "Name": "3 WAY TENTACLES FOR FCU RIGHT SIDE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2379,
+    "Code": "LAHR05282",
+    "Name": "BRASS AIRVENT",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2380,
+    "Code": "LAHR05283",
+    "Name": "BRASS DRAIN PLUG",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2381,
+    "Code": "LAHC24766",
+    "Name": "ROCKWOOL INSULATION 50MM THICK 96KG/M3",
+    "Description": "",
+    "Unit": "Square Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2382,
+    "Code": "LAHC11307",
+    "Name": "550mm DIA AXIAL FAN - 4 POLE - 3 PH",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2383,
+    "Code": "LAHC11308",
+    "Name": "630mm DIA AXIAL FAN - 4 POLE - 3 PH",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2384,
+    "Code": "LAHC11309",
+    "Name": "GR56CZID.GQ.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2385,
+    "Code": "LCCR07531",
+    "Name": "GI sheet 3mm THK 120 GSM",
+    "Description": 3,
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "AHU CASING",
+    "Item_Group": "G.I / COATED SHEETS"
+  },
+  {
+    "id": 2386,
+    "Code": "LAHC14532",
+    "Name": "ACTIVATED CARBON FILTER - 595 MM (W) x 494 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2387,
+    "Code": "LAHC14533",
+    "Name": "ACTIVATED CARBON FILTER - 494 MM (W) x 595 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2388,
+    "Code": "LCCC12868",
+    "Name": "80 x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2389,
+    "Code": "LCCC12869",
+    "Name": "85x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2390,
+    "Code": "LCCC12870",
+    "Name": "90x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2391,
+    "Code": "LCCC12871",
+    "Name": "106x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2392,
+    "Code": "LCCC12872",
+    "Name": "112x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2393,
+    "Code": "LCCC12873",
+    "Name": "118x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2394,
+    "Code": "LCCC12874",
+    "Name": "125x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2395,
+    "Code": "LCCC12875",
+    "Name": "132x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2396,
+    "Code": "LCCC12876",
+    "Name": "140x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2397,
+    "Code": "LCCC12877",
+    "Name": "150x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2398,
+    "Code": "LCCC12878",
+    "Name": "160x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2399,
+    "Code": "LCCC12879",
+    "Name": "180x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2400,
+    "Code": "LCCC12880",
+    "Name": "200x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2401,
+    "Code": "LCCC12881",
+    "Name": "250x 1A",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PULLEY",
+    "Item_Group": "PULLEYS/BEARINGS"
+  },
+  {
+    "id": 2402,
+    "Code": "LAHC24767",
+    "Name": "ACOUSTIC INSULATION",
+    "Description": "",
+    "Unit": "Square Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2403,
+    "Code": "LCCC16986",
+    "Name": "LIQUID ADHESIVE",
+    "Description": "",
+    "Unit": "Ltrs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "CONSUMABLES"
+  },
+  {
+    "id": 2404,
+    "Code": "LAHC11310",
+    "Name": "ER40C-2DNF7.1R",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2405,
+    "Code": "LAHC14534",
+    "Name": "MINI PLEAT FINE FILTER EU7 - 595 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2406,
+    "Code": "LAHC14535",
+    "Name": "MINI PLEAT FINE FILTER EU7- 595 MM (W) x 494 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2407,
+    "Code": "LAHC14536",
+    "Name": "MINI PLEAT FINE FILTER EU7- 494 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2408,
+    "Code": "LAHC14537",
+    "Name": "MINI PLEAT FINE FILTER EU7- 595 MM (W) x 290 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2409,
+    "Code": "LAHC14538",
+    "Name": "MINI PLEAT FINE FILTER EU7- 290 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2410,
+    "Code": "LAHC14539",
+    "Name": "RIGID FILTER EU5 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2411,
+    "Code": "LAHC14540",
+    "Name": "RIGID FILTER EU5 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2412,
+    "Code": "LAHC14541",
+    "Name": "RIGID FILTER EU5 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2413,
+    "Code": "LAHC14542",
+    "Name": "RIGID FILTER EU5 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2414,
+    "Code": "LAHC14543",
+    "Name": "RIGID FILTER EU5 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2415,
+    "Code": "LAHC14439",
+    "Name": "RIGID FILTER EU6 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2416,
+    "Code": "LAHC14544",
+    "Name": "RIGID FILTER EU6 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2417,
+    "Code": "LAHC14545",
+    "Name": "RIGID FILTER EU6 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2418,
+    "Code": "LAHC14546",
+    "Name": "RIGID FILTER EU6 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2419,
+    "Code": "LAHC14547",
+    "Name": "RIGID FILTER EU6 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2420,
+    "Code": "LAHC14548",
+    "Name": "RIGID FILTER EU7 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2421,
+    "Code": "LAHC14549",
+    "Name": "RIGID FILTER EU7 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2422,
+    "Code": "LAHC14550",
+    "Name": "RIGID FILTER EU7 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2423,
+    "Code": "LAHC14551",
+    "Name": "RIGID FILTER EU7 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2424,
+    "Code": "LAHC14552",
+    "Name": "RIGID FILTER EU7 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2425,
+    "Code": "LAHC14553",
+    "Name": "RIGID FILTER EU9 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2426,
+    "Code": "LAHC14554",
+    "Name": "RIGID FILTER EU9 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2427,
+    "Code": "LAHC14555",
+    "Name": "RIGID FILTER EU9 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2428,
+    "Code": "LAHC14556",
+    "Name": "RIGID FILTER EU9 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2429,
+    "Code": "LAHC14557",
+    "Name": "RIGID FILTER EU9 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2430,
+    "Code": "LAHC14558",
+    "Name": "BAG FILTER EU5 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2431,
+    "Code": "LAHC14559",
+    "Name": "BAG FILTER EU5 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2432,
+    "Code": "LAHC14560",
+    "Name": "BAG FILTER EU5 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2433,
+    "Code": "LAHC14561",
+    "Name": "BAG FILTER EU5 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2434,
+    "Code": "LAHC14562",
+    "Name": "BAG FILTER EU5 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2435,
+    "Code": "LAHC14563",
+    "Name": "BAG FILTER EU6 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2436,
+    "Code": "LAHC14564",
+    "Name": "BAG FILTER EU6 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2437,
+    "Code": "LAHC14565",
+    "Name": "BAG FILTER EU6 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2438,
+    "Code": "LAHC14566",
+    "Name": "BAG FILTER EU6 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2439,
+    "Code": "LAHC14567",
+    "Name": "BAG FILTER EU6 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2440,
+    "Code": "LAHC14568",
+    "Name": "BAG FILTER EU7 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2441,
+    "Code": "LAHC14569",
+    "Name": "BAG FILTER EU7 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2442,
+    "Code": "LAHC14570",
+    "Name": "BAG FILTER EU7 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2443,
+    "Code": "LAHC14571",
+    "Name": "BAG FILTER EU7 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2444,
+    "Code": "LAHC14572",
+    "Name": "BAG FILTER EU7 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2445,
+    "Code": "LAHC14573",
+    "Name": "BAG FILTER EU9 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2446,
+    "Code": "LAHC14574",
+    "Name": "BAG FILTER EU9 GRADE -610 MM (W) x 510 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2447,
+    "Code": "LAHC14575",
+    "Name": "BAG FILTER EU9 GRADE - 510 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2448,
+    "Code": "LAHC14576",
+    "Name": "BAG FILTER EU9 GRADE - 305 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2449,
+    "Code": "LAHC14577",
+    "Name": "BAG FILTER EU9 GRADE - 610 MM (W) x 305 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2450,
+    "Code": "LCCR07009",
+    "Name": "SS SHEET 316 GRADE 1.6mm THK",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "SS SHEETS"
+  },
+  {
+    "id": 2451,
+    "Code": "LAHC11311",
+    "Name": "ER80C-4DN.K7.1R",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2452,
+    "Code": "LAHC14578",
+    "Name": "ACTIVATED CARBON FILTER - 595 MM (W) x 494 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2453,
+    "Code": "LAHC14579",
+    "Name": "ACTIVATED CARBON FILTER - 595 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2454,
+    "Code": "LAHC14580",
+    "Name": "ACTIVATED CARBON FILTER - 290 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2455,
+    "Code": "LAHC14581",
+    "Name": "ACTIVATED CARBON FILTER - 595 MM (W) x 290 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2456,
+    "Code": "LAHC14582",
+    "Name": "ACTIVATED CARBON FILTER - 494 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2457,
+    "Code": "LAHC11312",
+    "Name": "140 x 190 FCU Fan with Housing",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2458,
+    "Code": "LCCR07532",
+    "Name": "M.S Perforated Sheet",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "G.I / COATED SHEETS"
+  },
+  {
+    "id": 2459,
+    "Code": "LCCR07533",
+    "Name": "GI Perforated Sheet",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "G.I / COATED SHEETS"
+  },
+  {
+    "id": 2460,
+    "Code": "LAHC11313",
+    "Name": "RLM E6-2831 -315 Dia Plug Fan",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2461,
+    "Code": "LAHM48624",
+    "Name": "GAS / LIQUID IN  STICKER",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "NAME PLATE/STICKER/LABELS"
+  },
+  {
+    "id": 2462,
+    "Code": "LAHM48625",
+    "Name": "GAS  OUT  STICKER",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "NAME PLATE/STICKER/LABELS"
+  },
+  {
+    "id": 2463,
+    "Code": "LAHM48626",
+    "Name": "U\" TRAP  STICKER",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "NAME PLATE/STICKER/LABELS"
+  },
+  {
+    "id": 2464,
+    "Code": "LAHR17242",
+    "Name": "2 1/2  Inches Copper Elbow",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2465,
+    "Code": "LCCM48528",
+    "Name": "5 Ply Corrugated Box 380mm (W) x 350mm (D) x 216mm(H)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PACKING"
+  },
+  {
+    "id": 2466,
+    "Code": "LAHR05284",
+    "Name": "1 Inch Brass Threaded Adaptor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2467,
+    "Code": "LAHR05285",
+    "Name": "1 1/2  Inches Brass Threaded Adaptor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2468,
+    "Code": "LAHR05286",
+    "Name": "2  Inches Brass Threaded Adaptor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2469,
+    "Code": "LAHR05287",
+    "Name": "2  1/2 Inches Brass Threaded Adaptor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2470,
+    "Code": "LAHR05288",
+    "Name": "3 Inches Brass Threaded Adaptor",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2471,
+    "Code": "LAHC24768",
+    "Name": "NITRILE RUBBER ELASTOMERIC SELF ADHESIVE  TAPE",
+    "Description": "50mm Width with Self Adhesive",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "GASKET & INSULATION"
+  },
+  {
+    "id": 2472,
+    "Code": "LAHC11314",
+    "Name": "GR35C.ZID.DG.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2473,
+    "Code": "LAHC11315",
+    "Name": "GR50C.ZID.GL.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2474,
+    "Code": "LAHC11316",
+    "Name": "K3G500-PB24-03 - EBM MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "EBM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2475,
+    "Code": "LCCC14935",
+    "Name": "Non Return Valve - 2 Inches",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "VALVE"
+  },
+  {
+    "id": 2476,
+    "Code": "LCCC14936",
+    "Name": "Butterfly Valve - 2 Inches",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "VALVE"
+  },
+  {
+    "id": 2477,
+    "Code": "LCCC14937",
+    "Name": "3 Way Motorized Valve with Actuator - 1 1/2  Inches",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "VALVE"
+  },
+  {
+    "id": 2478,
+    "Code": "LCCE27025",
+    "Name": "ABB 1.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2479,
+    "Code": "LCCE27026",
+    "Name": "ABB 2.2 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2480,
+    "Code": "LCCE27027",
+    "Name": "ABB 3.7 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2481,
+    "Code": "LCCE27028",
+    "Name": "ABB 5.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2482,
+    "Code": "LCCE27029",
+    "Name": "ABB 1.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2483,
+    "Code": "LCCE27030",
+    "Name": "ABB 2.2 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2484,
+    "Code": "LCCE27031",
+    "Name": "ABB 3.7 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2485,
+    "Code": "LCCE27032",
+    "Name": "ABB 5.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2486,
+    "Code": "LAHC14583",
+    "Name": "PRE FILTER EU4 GRADE - 570 MM (W) x 960 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2487,
+    "Code": "LAHC14584",
+    "Name": "FINE FILTER EU7 GRADE - 570 MM (W) x 960 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2488,
+    "Code": "LAHC14585",
+    "Name": "PRE FILTER EU4 GRADE - 400 MM (W) x 150 MM (H) x 25MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2489,
+    "Code": "LAHC14586",
+    "Name": "FINE FILTER EU7 GRADE - 610 MM (W) x 610 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2490,
+    "Code": "LAHC14587",
+    "Name": "MINI PLEAT HEPA FILTER H14 GRADE - 610 MM (W) x 610 MM (H) x 69MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "HEPA FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2491,
+    "Code": "LAHC11317",
+    "Name": "K3G250-RR02-I2 - EBM MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "EBM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2492,
+    "Code": "LCCR07010",
+    "Name": "SS SHEET 304 GRADE 3.0mm THK",
+    "Description": "",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "SS SHEETS"
+  },
+  {
+    "id": 2493,
+    "Code": "LCCE27033",
+    "Name": "CG 5.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "CG",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2494,
+    "Code": "LAHC24402",
+    "Name": "HA0600-1200-060-2EOO-2-0-0-1200 - Cross Flow PHE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "HEAT RECOVERY WHEEL"
+  },
+  {
+    "id": 2495,
+    "Code": "LAHC24403",
+    "Name": "HA0850-1400-080-2EOO-2-2-0-1400 - Cross Flow PHE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "HEAT RECOVERY WHEEL"
+  },
+  {
+    "id": 2496,
+    "Code": "LAHC14588",
+    "Name": "RIGID FILTER EU7 GRADE - 355 MM (W) x 355 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "RIGID FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2497,
+    "Code": "LAHC14589",
+    "Name": "ACTIVATED CARBON FILTER - 350 MM (W) x 550 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2498,
+    "Code": "LAHC14590",
+    "Name": "ACTIVATED CARBON FILTER - 440 MM (W) x 520 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "CARBON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2499,
+    "Code": "LAHC14591",
+    "Name": "PRE FILTER EU3 GRADE- 350 MM (W) x 550 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2500,
+    "Code": "LAHC14592",
+    "Name": "PRE FILTER EU3 GRADE- 440 MM (W) x 520 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2501,
+    "Code": "LAHC11318",
+    "Name": "GR25C-6IK.BA.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2502,
+    "Code": "LAHC14593",
+    "Name": "PRE FILTER EU3 GRADE- 610 MM (W) x 160 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2503,
+    "Code": "LAHC14594",
+    "Name": "FINE FILTER EU7 GRADE - 450 MM (W) x 450 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2504,
+    "Code": "LAHC14595",
+    "Name": "MINI PLEAT HEPA FILTER H14 GRADE - 450 MM (W) x 450 MM (H) x 69MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "HEPA FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2505,
+    "Code": "LAHC11319",
+    "Name": "GR25C-6ID. BD. CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2506,
+    "Code": "LAHC11320",
+    "Name": "GR28C-6ID. BD. CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2507,
+    "Code": "LAHC11321",
+    "Name": "160 x 190 FCU Fan with Housing",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2508,
+    "Code": "LAHC11322",
+    "Name": "200 x190 FCU Fan with Housing",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2509,
+    "Code": "LCCE27034",
+    "Name": "1/8 HP SINGLE PHASE 6 POLE MOTOR - WITH CAPACITIOR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2510,
+    "Code": "LAHR05289",
+    "Name": "FCU Brass Header Adaptor With Air Vent",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2511,
+    "Code": "LAHC14596",
+    "Name": "Nylon Filter - 172mm(H) x 692mm(W) x 8mm(D) for 1.0 TR ST FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2512,
+    "Code": "LAHC14597",
+    "Name": "Nylon Filter - 172mm(H) x 812mm(W) x 8mm(D) for 1.5 TR ST FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2513,
+    "Code": "LAHC14598",
+    "Name": "Nylon Filter - 202mm(H) x 912mm(W) x 8mm(D) for 2.0 TR ST FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2514,
+    "Code": "LAHC14599",
+    "Name": "Nylon Filter - 302mm(H) x 965mm(W) x 8mm(D) for 2.5 & 3.0 TR ST FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2515,
+    "Code": "LAHR05290",
+    "Name": "FCU Brass Header Adaptor Without Air Vent",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "BRASS ITEMS"
+  },
+  {
+    "id": 2516,
+    "Code": "LCCM48529",
+    "Name": "5 Ply Corrugated Box -FCU ST 1.0TR",
+    "Description": "1220mm (L) x 540mm (D) x 265mm(H)",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PACKING"
+  },
+  {
+    "id": 2517,
+    "Code": "LCCM48530",
+    "Name": "5 Ply Corrugated Box -FCU ST 1.5TR",
+    "Description": "1355mm (L) x 540mm (D) x 265mm(H)",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PACKING"
+  },
+  {
+    "id": 2518,
+    "Code": "LCCM48531",
+    "Name": "5 Ply Corrugated Box -FCU ST 2.0TR",
+    "Description": "1455mm (L) x 540mm (D) x 265mm(H)",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PACKING"
+  },
+  {
+    "id": 2519,
+    "Code": "LCCM48532",
+    "Name": "5 Ply Corrugated Box -FCU ST 2.5 & 3.0 TR",
+    "Description": "1510mm (L) x 640mm (D) x 385mm(H)",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PACKING"
+  },
+  {
+    "id": 2520,
+    "Code": "LAHC14600",
+    "Name": "FINE FILTER EU7 GRADE - 520 MM (W) x 850 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2521,
+    "Code": "LAHC14601",
+    "Name": "FINE FILTER EU7 GRADE - 570 MM (W) x 850 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2522,
+    "Code": "LAHC14602",
+    "Name": "FINE FILTER EU7 GRADE - 600 MM (W) x 600 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2523,
+    "Code": "LAHC14603",
+    "Name": "FINE FILTER EU7 GRADE - 490 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2524,
+    "Code": "LAHC14604",
+    "Name": "FINE FILTER EU7 GRADE - 600 MM (W) x 500 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2525,
+    "Code": "LAHC14605",
+    "Name": "FINE FILTER EU7 GRADE - 500 MM (W) x 500 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2526,
+    "Code": "LAHC14606",
+    "Name": "FINE FILTER EU7 GRADE - 490 MM (W) x 490 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2527,
+    "Code": "LAHR17243",
+    "Name": "3/4 Inches Copper Hard Pipe",
+    "Description": "",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "COPPER ITEMS"
+  },
+  {
+    "id": 2528,
+    "Code": "LAHC11323",
+    "Name": "GR40C-ZID.DG.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2529,
+    "Code": "LAHC11324",
+    "Name": "GR45C-ZID.GG.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2530,
+    "Code": "LAHC14607",
+    "Name": "FINE FILTER EU7 GRADE - 610 MM (W) x 305 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2531,
+    "Code": "LAHC14608",
+    "Name": "FINE FILTER EU7 GRADE - 305 MM (W) x 610 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2532,
+    "Code": "LAHC14609",
+    "Name": "FINE FILTER EU7 GRADE - 610 MM (W) x 510 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2533,
+    "Code": "LAHC14610",
+    "Name": "FINE FILTER EU5 GRADE - 610 MM (W) x 610 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2534,
+    "Code": "LAHC14611",
+    "Name": "FINE FILTER EU5 GRADE - 610 MM (W) x 305 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2535,
+    "Code": "LAHC14612",
+    "Name": "FINE FILTER EU5 GRADE - 305 MM (W) x 610 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2536,
+    "Code": "LAHC14613",
+    "Name": "FINE FILTER EU5 GRADE - 610 MM (W) x 510 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "FINE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2537,
+    "Code": "LAHC14614",
+    "Name": "Nylon Pleated Filter - 265mm(H) x 895mm(W) x16mm(D) for 1.0 TR DS FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2538,
+    "Code": "LAHC14615",
+    "Name": "Nylon Pleated Filter - 265mm(H) x 1015mm(W) x16mm(D) for 1.5 TR DS FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2539,
+    "Code": "LAHC14616",
+    "Name": "Nylon Pleated Filter - 265mm(H) x 1115mm(W) x16mm(D) for 2.0 TR DS FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2540,
+    "Code": "LAHC14617",
+    "Name": "Nylon Pleated Filter - 375mm(H) x 1005mm(W) x16mm(D) for 2.5 TR DS FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2541,
+    "Code": "LAHC14618",
+    "Name": "Nylon Pleated Filter - 375mm(H) x 1135mm(W) x16mm(D) for 3.0 TR DS FCU",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "NYLON FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2542,
+    "Code": "LAHC23724",
+    "Name": "ALUMINUM CORNER PROFILE - 20-18 MM SQUARE NTBK",
+    "Description": "Corner Profile (20-18 NTBK)",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PROFILES"
+  },
+  {
+    "id": 2543,
+    "Code": "LAHC23725",
+    "Name": "ALUMINUM CORNER PROFILE - 70 - 50 CHAMFERED TBK",
+    "Description": "Corner Profile (70-50 TBK)",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PROFILES"
+  },
+  {
+    "id": 2544,
+    "Code": "LAHC23726",
+    "Name": "ALUMINUM OMEGA PROFILE - 70 - 50 CHAMFERED TBK",
+    "Description": "Omega Profile (70-50 TBK)",
+    "Unit": "Meters",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "ALUMINIUM PROFILES"
+  },
+  {
+    "id": 2545,
+    "Code": "LAHC15251",
+    "Name": "70-50 CHAMFERED TBK - Omega Jointer",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2546,
+    "Code": "LAHC15252",
+    "Name": "70-50 CHAMFERED TBK - 3 Way Corner",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "PLASTIC PARTS"
+  },
+  {
+    "id": 2547,
+    "Code": "LCCE27035",
+    "Name": "ABB 1.1 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "ABB",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2548,
+    "Code": "LCCE27036",
+    "Name": "CG 1.1 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2549,
+    "Code": "LCCE27037",
+    "Name": "CG 2.2 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2550,
+    "Code": "LCCE27038",
+    "Name": "CG 11 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2551,
+    "Code": "LCCE27039",
+    "Name": "CG 15 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2552,
+    "Code": "LCCE27040",
+    "Name": "CG 18.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2553,
+    "Code": "LAHC14619",
+    "Name": "PRE FILTER EU4 GRADE - 595 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2554,
+    "Code": "LAHC14620",
+    "Name": "PRE FILTER EU4 GRADE - 595 MM (W) x 595 MM (H) x 100MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2555,
+    "Code": "LAHC14621",
+    "Name": "PRE FILTER EU4 GRADE - 610 MM (W) x 460 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2556,
+    "Code": "LAHC14622",
+    "Name": "BAG FILTER EU9 GRADE - 610 MM (W) x 610 MM (H) x 300MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "BAG FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2557,
+    "Code": "LAHC11325",
+    "Name": "K3G355-PJ75-01",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2558,
+    "Code": "LAHC11326",
+    "Name": "GR31I-ZID.DC.CR",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2559,
+    "Code": "LAHR06257",
+    "Name": "12.7mm OD with 0.32 mm Wall Thickness Plain Tube Seamless LWC Copper",
+    "Description": "C12200 / O50 Light Annealed Complyng to ASTM Standard B68M",
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "RAW MATERIAL"
+  },
+  {
+    "id": 2560,
+    "Code": "LAHC11327",
+    "Name": "ER71C-4DN.I7.1R",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2561,
+    "Code": "LAHC11328",
+    "Name": "BDB 710 XM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2562,
+    "Code": "LAHC11329",
+    "Name": "BDB 800 XM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2563,
+    "Code": "LAHC11330",
+    "Name": "BDB 900 XM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2564,
+    "Code": "LAHC11331",
+    "Name": "BDB 1000 XM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2565,
+    "Code": "LAHC11332",
+    "Name": "BDB 1120 XM KRUGER MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2566,
+    "Code": "LCCE27041",
+    "Name": "CG 11 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2567,
+    "Code": "LAHC14623",
+    "Name": "PRE FILTER EU4 GRADE - 494 MM (W) x 494 MM (H) x 48MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "PRE FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2568,
+    "Code": "LCCE27042",
+    "Name": "CG 1.5 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2569,
+    "Code": "LCCE27043",
+    "Name": "CG 2.2 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2570,
+    "Code": "LCCE27044",
+    "Name": "CG 2.2 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2571,
+    "Code": "LCCE27045",
+    "Name": "CG 3.7 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 2 POLE FOOT MOUNTED-IE3",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2572,
+    "Code": "LCCR07534",
+    "Name": "GI sheet 0.5mm THK 120 GSM",
+    "Description": 0.5,
+    "Unit": "Kgs",
+    "Brand": "OEM",
+    "Sub_Group": "AHU CASING",
+    "Item_Group": "G.I / COATED SHEETS"
+  },
+  {
+    "id": 2573,
+    "Code": "LAHC14624",
+    "Name": "COMBINATION FILTER EU4 PREFILTER + F7 GRADE FLANGE MINI PLEAT - 610 MM (W) x 610 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMBINATION FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2574,
+    "Code": "LAHC14625",
+    "Name": "COMBINATION FILTER EU4 PREFILTER + F7 GRADE FLANGE MINI PLEAT - 610 MM (W) x 305 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMBINATION FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2575,
+    "Code": "LAHC14626",
+    "Name": "COMBINATION FILTER EU4 PREFILTER + F7 GRADE FLANGE MINI PLEAT - 305 MM (W) x 610 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMBINATION FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2576,
+    "Code": "LAHC14627",
+    "Name": "COMBINATION FILTER EU4 PREFILTER + F7 GRADE FLANGE MINI PLEAT - 610 MM (W) x 510 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMBINATION FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2577,
+    "Code": "LAHC14628",
+    "Name": "COMBINATION FILTER EU4 PREFILTER + F7 GRADE FLANGE MINI PLEAT - 510 MM (W) x 610 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMBINATION FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2578,
+    "Code": "LAHC14629",
+    "Name": "COMBINATION FILTER EU4 PREFILTER + F7 GRADE FLANGE MINI PLEAT - 450 MM (W) x 450 MM (H) x 150MM (D)",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "COMBINATION FILTER",
+    "Item_Group": "FILTER"
+  },
+  {
+    "id": 2579,
+    "Code": "LCCE27046",
+    "Name": "ABB 9.3 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2580,
+    "Code": "LCCE27047",
+    "Name": "ABB 11 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2581,
+    "Code": "LAHE15111",
+    "Name": "FLAME PROOF BULK HEAD FITTING",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "LAMP"
+  },
+  {
+    "id": 2582,
+    "Code": "LAHE15112",
+    "Name": "FLAME PROOF LIMIT SWITCH",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "LAMP"
+  },
+  {
+    "id": 2583,
+    "Code": "LCCE27048",
+    "Name": "CG 9.3 KW 3 PH TEFC-SQCAGE INDUCTION FLAME PROOF MOTOR 4 POLE FOOT MOUNTED-IE2",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2584,
+    "Code": "LAHC11333",
+    "Name": "K3G560-PB31-03 - EBM MAKE",
+    "Description": "",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "FAN"
+  },
+  {
+    "id": 2585,
+    "Code": "LCCE27049",
+    "Name": "150 Watts SINGLE PHASE PSC MOTOR - WITH CAPACITIOR",
+    "Description": "1350 RPM / 2 Speed",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2586,
+    "Code": "LCCE27050",
+    "Name": "187 Watts SINGLE PHASE PSC MOTOR - WITH CAPACITIOR",
+    "Description": "1100 RPM / 3 Speed",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2587,
+    "Code": "LCCE27051",
+    "Name": "370 Watts SINGLE PHASE PSC MOTOR - WITH CAPACITIOR",
+    "Description": "1100 RPM / 3 Speed",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  },
+  {
+    "id": 2588,
+    "Code": "LCCE27052",
+    "Name": "562 Watts SINGLE PHASE PSC MOTOR - WITH CAPACITIOR",
+    "Description": "1150 RPM / 4 Speed",
+    "Unit": "Nos",
+    "Brand": "OEM",
+    "Sub_Group": "",
+    "Item_Group": "MOTOR"
+  }
+]

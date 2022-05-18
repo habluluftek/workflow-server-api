@@ -1,0 +1,226 @@
+[
+	{
+		"id" : 1,
+		"item" : "Poly Urethe Foam",
+		"menuId" : 1,
+		"value" : "puf",
+		"specValue" : null
+	},
+	{
+		"id" : 2,
+		"item" : "Rockwool",
+		"menuId" : 1,
+		"value" : "rw",
+		"specValue" : null
+	},
+	{
+		"id" : 3,
+		"item" : "Glassfiber",
+		"menuId" : 1,
+		"value" : "gf",
+		"specValue" : null
+	},
+	{
+		"id" : 4,
+		"item" : "50 mm",
+		"menuId" : 2,
+		"value" : "50",
+		"specValue" : null
+	},
+	{
+		"id" : 5,
+		"item" : "48 mm",
+		"menuId" : 2,
+		"value" : "48",
+		"specValue" : null
+	},
+	{
+		"id" : 6,
+		"item" : "45 mm",
+		"menuId" : 2,
+		"value" : "45",
+		"specValue" : null
+	},
+	{
+		"id" : 7,
+		"item" : "30 mm",
+		"menuId" : 2,
+		"value" : "30",
+		"specValue" : null
+	},
+	{
+		"id" : 8,
+		"item" : "25 mm",
+		"menuId" : 2,
+		"value" : "25",
+		"specValue" : null
+	},
+	{
+		"id" : 9,
+		"item" : "Channel",
+		"menuId" : 3,
+		"value" : "channel",
+		"specValue" : null
+	},
+	{
+		"id" : 10,
+		"item" : "Fabricated",
+		"menuId" : 3,
+		"value" : "fabricated",
+		"specValue" : null
+	},
+	{
+		"id" : 11,
+		"item" : "30 mm",
+		"menuId" : 4,
+		"value" : "30",
+		"specValue" : null
+	},
+	{
+		"id" : 12,
+		"item" : "50 mm",
+		"menuId" : 4,
+		"value" : "50",
+		"specValue" : null
+	},
+	{
+		"id" : 13,
+		"item" : "80 mm",
+		"menuId" : 4,
+		"value" : "80",
+		"specValue" : null
+	},
+	{
+		"id" : 14,
+		"item" : "100 mm",
+		"menuId" : 4,
+		"value" : "100",
+		"specValue" : null
+	},
+	{
+		"id" : 15,
+		"item" : "150 mm",
+		"menuId" : 4,
+		"value" : "150",
+		"specValue" : null
+	},
+	{
+		"id" : 16,
+		"item" : "2 RD",
+		"menuId" : 6,
+		"value" : "2",
+		"specValue" : null
+	},
+	{
+		"id" : 17,
+		"item" : "3 RD",
+		"menuId" : 6,
+		"value" : "3",
+		"specValue" : null
+	},
+	{
+		"id" : 18,
+		"item" : "4 RD",
+		"menuId" : 6,
+		"value" : "4",
+		"specValue" : null
+	},
+	{
+		"id" : 19,
+		"item" : "5 RD",
+		"menuId" : 6,
+		"value" : "5",
+		"specValue" : null
+	},
+	{
+		"id" : 20,
+		"item" : "6 RD",
+		"menuId" : 6,
+		"value" : "6",
+		"specValue" : null
+	},
+	{
+		"id" : 21,
+		"item" : "8 RD",
+		"menuId" : 6,
+		"value" : "8",
+		"specValue" : null
+	},
+	{
+		"id" : 22,
+		"item" : "10 RD",
+		"menuId" : 6,
+		"value" : "10",
+		"specValue" : null
+	},
+	{
+		"id" : 23,
+		"item" : "1 mm",
+		"menuId" : 5,
+		"value" : "1",
+		"specValue" : null
+	},
+	{
+		"id" : 24,
+		"item" : "1.5 mm",
+		"menuId" : 5,
+		"value" : "1.5",
+		"specValue" : null
+	},
+	{
+		"id" : 25,
+		"item" : "2 mm",
+		"menuId" : 5,
+		"value" : "2",
+		"specValue" : null
+	},
+	{
+		"id" : 26,
+		"item" : "2.5 mm",
+		"menuId" : 5,
+		"value" : "2.5",
+		"specValue" : null
+	},
+	{
+		"id" : 27,
+		"item" : "Copper",
+		"menuId" : 8,
+		"value" : "Cu",
+		"specValue" : null
+	},
+	{
+		"id" : 28,
+		"item" : "Stainless Steel",
+		"menuId" : 8,
+		"value" : "SS",
+		"specValue" : null
+	},
+	{
+		"id" : 29,
+		"item" : "Aluminium",
+		"menuId" : 8,
+		"value" : "Al",
+		"specValue" : null
+	},
+	{
+		"id" : 30,
+		"item" : "1/2 in",
+		"menuId" : 7,
+		"value" : "12.7",
+		"specValue" : 31.75
+	},
+	{
+		"id" : 31,
+		"item" : "3/8 in",
+		"menuId" : 7,
+		"value" : "9.525",
+		"specValue" : 25.4
+	},
+	{
+		"id" : 32,
+		"item" : "5/8 in",
+		"menuId" : 7,
+		"value" : "15.875",
+		"specValue" : 40
+	}
+]

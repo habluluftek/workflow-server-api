@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "start-nodemon": "nodemon ./bin/www",
-    "start-app": "node app.js"
+    "start-app": "node ./bin/www"
   },
   "author": "Hablu",
   "license": "MIT",
